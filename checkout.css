@@ -1,0 +1,32 @@
+.checkout-page {
+    padding: 40px 0;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea,
+.form-group select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #333;
+    background-color: #222;
+    color: white;
+    border-radius: 5px;
+}
+
+.checkout-page button[type="submit"] {
+    background-color: #555;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
